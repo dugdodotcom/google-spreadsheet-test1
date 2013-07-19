@@ -1,0 +1,18 @@
+{
+  "author": "Alfado Puja Kusuma",
+  "name": "google-spreadsheets",
+  "description": "Google Spreadsheet Data API for Node.js",
+  "version": "0.1.0",
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "main": "main.js",
+  "engines": {
+    "node": ""
+  },
+  "dependencies": {
+    "request": ""
+  }
+}
